@@ -1,0 +1,18 @@
+{
+  "name": "teasy",
+  "version": "1.0.0",
+  "description": "Create teasers for long texts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teaser",
+    "sentence"
+  ],
+  "author": "Simon Ljungberg <hi@iamsim.me> (http://iamsim.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "sbd": "0.0.2"
+  }
+}
